@@ -19,7 +19,8 @@
   💘 <strong>Love Score</strong> &nbsp;|&nbsp;
   🕵️ <strong>Silent Auction</strong> &nbsp;|&nbsp;
   👻 <strong>Hangman</strong> &nbsp;|&nbsp;
-  ✊ <strong>Stone Paper Scissors</strong>
+  ✊ <strong>Stone Paper Scissors</strong> &nbsp;|&nbsp;
+  📈 <strong>Higher Lower</strong>
 </p>
 
 ---
@@ -146,5 +147,20 @@ Paper beats Stone, Stone beats Scissors, and Scissors beat Paper.
 If both choose the same, it’s a draw.
 
 The game can be played in multiple rounds to track wins, losses, and draws.
+
+📈 Higher Lower
+Test your instincts! Choose who has more followers on social media.
+
+🔹 Rules:
+
+You’ll be shown two profiles (celebrities, brands, etc.)
+
+You must guess which one has more followers.
+
+If you guess right, you move to the next round with a new comparison.
+
+The game continues until you make a wrong guess.
+
+Try to beat your high score!
 
 <h2 align="center">🧠 Why This Project?</h2> <p align="center"> These games are perfect for: </p> <ul align="center"> <li><strong>Learning Python fundamentals 🐍</strong></li> <li><strong>Practicing loops, conditionals, lists, and functions</strong></li> <li><strong>Building fun and interactive terminal apps</strong></li> </ul>
