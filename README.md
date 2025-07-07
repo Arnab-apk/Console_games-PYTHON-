@@ -1,21 +1,25 @@
 <h1 align="center">🎮 Python Mini Games Collection 🐍</h1>
 
 <p align="center">
-  Welcome to the <strong>Python Mini Games Collection</strong> – a fun-packed repository of simple yet addictive games made in Python.<br>
-  Whether you're learning to code or just looking for some nostalgic terminal fun, you're in the right place!
+  <strong>A delightful blend of learning and gaming, crafted with Python!</strong><br><br>
+  This repository is a collection of fun and interactive mini games developed using Python. <br>
+  Each game is designed to strengthen your understanding of basic programming concepts while offering a great time playing. <br><br>
+  Whether you're a curious beginner exploring Python or a seasoned developer reminiscing about terminal-based fun, <br>
+  these games are your perfect coding companion. 🧠💡🎲
 </p>
 
 ---
 
-<h3 align="center">✨ Games Included ✨</h3>
+<h2 align="center">✨ Games Included ✨</h2>
 
 <p align="center">
   🃏 <strong>Blackjack</strong> &nbsp;|&nbsp;
   🔐 <strong>Caesar Cipher</strong> &nbsp;|&nbsp;
   🎯 <strong>Guess The Number</strong> &nbsp;|&nbsp;
   💘 <strong>Love Score</strong> &nbsp;|&nbsp;
-  🕵 <strong>Silent Auction</strong> &nbsp;|&nbsp;
-  👻 <strong>Hangman</strong>
+  🕵️ <strong>Silent Auction</strong> &nbsp;|&nbsp;
+  👻 <strong>Hangman</strong> &nbsp;|&nbsp;
+  ✊ <strong>Stone Paper Scissors</strong>
 </p>
 
 ---
@@ -23,15 +27,15 @@
 ## 🚀 Getting Started
 
 ### 🔧 Requirements
-- ✅ <strong>Python 3.x</strong> installed
-- ✅ Basic understanding of the terminal
+- ✅ Python **3.x** installed
+- ✅ Basic knowledge of using the terminal or command line
 
 ### ▶️ How to Run
-1. Clone this repo:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/python-mini-games.git
    cd python-mini-games
-   
+
 <h2 align="center">🎮 Game Descriptions and Rules 📜</h2>
 🃏 Blackjack
 Description:
@@ -123,5 +127,24 @@ Each wrong guess draws a part of the hangman.
 You lose if the drawing is completed before guessing the word.
 
 You win by guessing the full word in time!
+
+✊ Stone Paper Scissors
+The classic two-player game where logic and luck collide!
+
+🔹 Rules:
+
+The player and computer each choose between:
+
+Stone (✊)
+
+Paper (🧻)
+
+Scissors (✂️)
+
+Paper beats Stone, Stone beats Scissors, and Scissors beat Paper.
+
+If both choose the same, it’s a draw.
+
+The game can be played in multiple rounds to track wins, losses, and draws.
 
 <h2 align="center">🧠 Why This Project?</h2> <p align="center"> These games are perfect for: </p> <ul align="center"> <li><strong>Learning Python fundamentals 🐍</strong></li> <li><strong>Practicing loops, conditionals, lists, and functions</strong></li> <li><strong>Building fun and interactive terminal apps</strong></li> </ul>
